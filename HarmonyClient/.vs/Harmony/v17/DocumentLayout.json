@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|d:\\work\\\u0441#\\\u043F\u043F\\harmony\\harmony_0_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|solutionrelative:harmony_0_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|d:\\work\\\u0441#\\\u043F\u043F\\harmony\\harmony_0_2\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|solutionrelative:harmony_0_2\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|d:\\work\\\u0441#\\\u043F\u043F\\harmony\\harmony_0_2\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|solutionrelative:harmony_0_2\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|d:\\work\\\u0441#\\\u043F\u043F\\harmony\\harmony_0_2\\audioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|solutionrelative:harmony_0_2\\audioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|d:\\work\\\u0441#\\\u043F\u043F\\harmony\\harmony_0_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB4974D5-0C73-4900-81F6-5B6B64100F7A}|Harmony_0_2\\Harmony_0_2.csproj|solutionrelative:harmony_0_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioServices.cs",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\AudioServices.cs",
+              "RelativeDocumentMoniker": "Harmony_0_2\\AudioServices.cs",
+              "ToolTip": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\AudioServices.cs",
+              "RelativeToolTip": "Harmony_0_2\\AudioServices.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:37:19.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Network.cs",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\Network.cs",
+              "RelativeDocumentMoniker": "Harmony_0_2\\Network.cs",
+              "ToolTip": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\Network.cs",
+              "RelativeToolTip": "Harmony_0_2\\Network.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAkwLQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:58:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Core.cs",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\Core.cs",
+              "RelativeDocumentMoniker": "Harmony_0_2\\Core.cs",
+              "ToolTip": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\Core.cs",
+              "RelativeToolTip": "Harmony_0_2\\Core.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:57:50.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Harmony_0_2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Harmony_0_2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:57:24.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Harmony_0_2\\MainWindow.xaml",
+              "ToolTip": "D:\\Work\\\u0421#\\\u041F\u041F\\Harmony\\Harmony_0_2\\MainWindow.xaml",
+              "RelativeToolTip": "Harmony_0_2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T14:57:28.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

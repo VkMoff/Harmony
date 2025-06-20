@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\\u0421#\\\u041F\u041F\\HarmonyServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A41950C-75F7-48A5-AA84-6B3A30C4FF8C}|HarmonyServer\\HarmonyServer.csproj|d:\\work\\\u0441#\\\u043F\u043F\\harmonyserver\\harmonyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A41950C-75F7-48A5-AA84-6B3A30C4FF8C}|HarmonyServer\\HarmonyServer.csproj|solutionrelative:harmonyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\\u0421#\\\u041F\u041F\\HarmonyServer\\HarmonyServer\\Program.cs",
+              "RelativeDocumentMoniker": "HarmonyServer\\Program.cs",
+              "ToolTip": "D:\\Work\\\u0421#\\\u041F\u041F\\HarmonyServer\\HarmonyServer\\Program.cs",
+              "RelativeToolTip": "HarmonyServer\\Program.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAMwAMBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:47:21.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

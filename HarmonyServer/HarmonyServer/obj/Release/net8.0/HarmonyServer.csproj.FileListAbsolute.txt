@@ -1,0 +1,15 @@
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\HarmonyServer.exe
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\HarmonyServer.deps.json
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\HarmonyServer.runtimeconfig.json
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\HarmonyServer.dll
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\HarmonyServer.pdb
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.AssemblyInfoInputs.cache
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.AssemblyInfo.cs
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.csproj.CoreCompileInputs.cache
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.dll
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\refint\HarmonyServer.dll
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.pdb
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\HarmonyServer.genruntimeconfig.cache
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\ref\HarmonyServer.dll
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\Settings.job

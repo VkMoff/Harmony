@@ -1,0 +1,6 @@
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\HarmonyServer\Settings.job
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\HarmonyServer\HarmonyServer.exe
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\HarmonyServer\HarmonyServer.dll
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\HarmonyServer\HarmonyServer.deps.json
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\HarmonyServer\HarmonyServer.runtimeconfig.json
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\HarmonyServer\HarmonyServer.pdb

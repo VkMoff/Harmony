@@ -1,0 +1,5 @@
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\publish\HarmonyServer.exe
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\publish\HarmonyServer.dll
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\publish\HarmonyServer.deps.json
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\publish\HarmonyServer.runtimeconfig.json
+D:\Work\С#\ПП\HarmonyServer\HarmonyServer\bin\Release\net8.0\publish\HarmonyServer.pdb
